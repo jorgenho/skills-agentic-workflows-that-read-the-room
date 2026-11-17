@@ -44,9 +44,9 @@ repeating information already covered, and make only evidence-backed changes.
 Do not edit any other file.
 
 Before proposing a pull request, check for an existing open pull request that
-already updates this file and avoid creating a duplicate. Open a pull request
-for Mona to review; do not write changes directly to the default branch. Use
-only the configured `create-pull-request` safe output, which is restricted to
+already updates this file and avoid creating a duplicate. Open a pull request for Mona to review.
+Do not write changes directly to the default branch. Use only the configured
+`create-pull-request` safe output, which is restricted to
 `site/content/github-info.md`.
 
 If neither source contains a useful update, the evidence is insufficient, or an
